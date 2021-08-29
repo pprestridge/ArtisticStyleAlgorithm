@@ -2,8 +2,6 @@
 
 This notebook is an attempt to recreate the work done by [Gatys et al. (2015)](https://arxiv.org/abs/1508.06576) to generate new images using a content and style image.
 
-![contentstle](https://user-images.githubusercontent.com/17886837/131258010-22a48f1a-c1af-440e-9180-669d03203218.PNG)
-
 ![generated image](https://user-images.githubusercontent.com/17886837/131258021-be7baa79-1f43-4148-9bf3-d3a7c84f95ed.PNG)
 
 ## Pre-Trained Convolutional Model
@@ -20,3 +18,6 @@ The style cost function considers the difference bewteen the feauture representa
 
 ## Image Selection
 
+For the content image, I chose an iconinc image from my hometown, and for the style image, I chose Starry Night by Van Gogh (The most common choice from my research).
+
+![contentstle](https://user-images.githubusercontent.com/17886837/131258010-22a48f1a-c1af-440e-9180-669d03203218.PNG)
